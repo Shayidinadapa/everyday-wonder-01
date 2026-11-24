@@ -1,0 +1,1 @@
+{"description":"One sentence about a small everyday moment of wonder, written to /output/entry.txt for the make.fun bounty Everyday Wonder, Two Days to Find the Line.","engines":{"node":">=22.6"},"license":"MIT","name":"everyday-wonder-01","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
